@@ -2,7 +2,7 @@
 
 Electric Vehicles (EVs) are reshaping global transportation. This project uses **Tableau** to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across **India and globally**.
 
-The goal of this project is to help **EV buyers, analysts, and policymakers** explore insights and make informed decisions through interactive visualizations.
+The goal of this project is to help **EV buyers, analysts, and policymakers** explore insights and make informed decisions using interactive visualizations.
 
 ---
 
@@ -12,10 +12,10 @@ Analyzing Electric Vehicle data from **multiple datasets** can be challenging du
 
 This project integrates **four different datasets** containing information about:
 
-* EV specifications
-* Pricing
-* Efficiency
-* Charging infrastructure
+- EV Specifications
+- EV Pricing
+- Vehicle Efficiency
+- Charging Infrastructure
 
 The data is **cleaned, processed, and connected using MySQL**, then visualized through **Tableau Dashboards and Stories** to generate meaningful insights.
 
@@ -23,46 +23,48 @@ The data is **cleaned, processed, and connected using MySQL**, then visualized t
 
 # 🛠️ Technologies Used
 
-* **Tableau** – Data visualization & dashboards
-* **MySQL** – Data storage and integration
-* **Excel / CSV datasets** – Raw data sources
-* **GitHub Pages** – Demo UI hosting
+- **Tableau** – Data Visualization & Dashboards  
+- **MySQL** – Data Integration and Database Management  
+- **Excel / CSV** – Raw Data Processing  
+- **GitHub Pages** – Hosting Demo UI  
 
 ---
 
 # 📊 Key Features of the Dashboard
 
-✔ Charging Stations by **Region & Type (India)**
-✔ **Interactive Map** of Charging Stations in India
-✔ **EV Car Comparison** (Price, Range, Speed)
-✔ **Top 10 Most Efficient EV Brands**
-✔ **Body Style vs Brand Breakdown**
-✔ **Powertrain Type Filters**
-✔ **Model Count by Brand**
-✔ **Summary Cards** (India & Global Statistics)
-✔ **KPI Cards** with key performance metrics
+- Charging Stations by **Region & Type (India)**
+- **Charging Station Map of India**
+- **EV Car Comparison** (Price, Range, Speed)
+- **Top 10 Most Efficient EV Brands**
+- **Body Style vs Brand Breakdown**
+- **Powertrain Type Filters**
+- **Model Count by Brand**
+- **Summary Cards** (India & Global Data)
+- **KPI Cards** with Key Performance Metrics
 
 ---
 
 # 📈 Tableau Dashboard
 
-🔗 **Live Dashboard:**
-[https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **Live Dashboard**
+
+https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
 # 📖 Tableau Story
 
-🔗 **Story Visualization:**
-[https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **Story Visualization**
+
+https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
 # 🎥 Demo Video
 
-Watch the project demonstration:
+Watch the full project demonstration here:
 
-[https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk](https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk)
+https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk
 
 ---
 
@@ -70,18 +72,28 @@ Watch the project demonstration:
 
 Interactive UI version of the project:
 
-[https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/](https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/)
+https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/
 
 ---
 
 # 📂 Project Workflow
 
-1️⃣ Collect EV datasets from public sources
-2️⃣ Clean and preprocess data
-3️⃣ Integrate datasets using **MySQL**
-4️⃣ Connect MySQL database to **Tableau**
-5️⃣ Build **interactive dashboards and stories**
-6️⃣ Publish dashboard to **Tableau Public**
+1. Collect EV datasets from public sources  
+2. Clean and preprocess the data  
+3. Integrate datasets using **MySQL**  
+4. Connect MySQL database with **Tableau**  
+5. Create **interactive dashboards and stories**  
+6. Publish the dashboard to **Tableau Public**  
+
+---
+
+# 📷 Dashboard Preview
+
+You can add dashboard screenshots here.
+
+Example:
+
+![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
@@ -89,15 +101,14 @@ Interactive UI version of the project:
 
 **Shraddha Shrikant Mali**
 
-📧 Email: [shraddhamali04@gmail.com](mailto:shraddhamali04@gmail.com)
+📧 Email: shraddhamali04@gmail.com
 
 ---
 
 # 📄 License
 
 This project is created for **academic and educational purposes only**.
-The datasets used are **publicly available sources**.
 
-Feel free to **fork, learn, and extend** the project.
+The datasets used are **publicly available**.
 
----
+Feel free to **fork, learn from, and extend the project** for educational use.
