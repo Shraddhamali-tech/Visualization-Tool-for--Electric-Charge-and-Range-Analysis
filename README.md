@@ -87,16 +87,6 @@ https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-
 
 ---
 
-# 📷 Dashboard Preview
-
-You can add dashboard screenshots here.
-
-Example:
-
-![Dashboard Screenshot](images/dashboard.png)
-
----
-
 # 🧑‍💻 Author
 
 **Shraddha Shrikant Mali**
