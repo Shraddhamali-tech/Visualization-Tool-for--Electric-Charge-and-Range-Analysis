@@ -42,8 +42,11 @@ This project is for academic use only. Data used is publicly available. Feel fre
 🎯 KPI Cards with key performance metrics
 
 **🔗 Live Tableau Links**
-1.Dashboard:https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-2.Story: https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+1.Dashboard:
+https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+2.Story:
+https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 <h4>**Demo video link : **</h4>
 https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk
