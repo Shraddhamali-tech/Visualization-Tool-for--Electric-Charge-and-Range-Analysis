@@ -1,14 +1,14 @@
-**🚗 Project Overview**
+**🚗 Project Overview**</br>
 Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across India and globally. The goal is to help EV buyers and policy analysts explore insights and make informed decisions.</br>
-**📌 Problem Statement**
+**📌 Problem Statement**</br>
 Analysing different data from multiple sources for Electric cars in India and globally.
 We worked with four distinct datasets that include EV specifications, pricing, efficiency, and charging infrastructure. The data is cleaned, connected via MySQL, and visualized using Tableau Dashboards and Stories to provide meaningful insights for decision-making.</br>
-**🚗 Project Overview**
+**🚗 Project Overview**</br>
 Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across India and globally. The goal is to help EV buyers and policy analysts explore insights and make informed decisions.</br>
-**📌 Problem Statement**
+**📌 Problem Statement**</br>
 Analysing different data from multiple sources for Electric cars in India and globally.
 We worked with four distinct datasets that include EV specifications, pricing, efficiency, and charging infrastructure. The data is cleaned, connected via MySQL, and visualized using Tableau Dashboards and Stories to provide meaningful insights for decision-making.</br>
-**📊 Key Features of the Dashboard**
+**📊 Key Features of the Dashboard**</br>
 📍 Charging Stations by Region & Type (India)
 🗺️ Charging Station Map of India
 🚘 EV Car Comparison (Price, Range, Speed)
@@ -20,21 +20,22 @@ We worked with four distinct datasets that include EV specifications, pricing, e
 🎯 KPI Cards with key performance metrics
 🔗 Live Tableau Links
 📈 EV Dashboard</br>
-**🧑‍💻 Author**
+**🧑‍💻 Author**</br>
 Name: Shraddha Shrikant Mali</br>
-<h4>Email:</h4>shraddhamali04@gmail.com</br>
-**🔗 Live Tableau Links**
+<h4>Email:</h4></br>shraddhamali04@gmail.com</br>
+**🔗 Live Tableau Links**</br>
 1.Dashboard:</br>
 https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 </br>
 2.Story:</br>
 https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 </br>
-<h4>**Demo video link : **</h4>
+<h4>**Demo video link : **</h4></br>
 https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk
 </br>
-<h4>Demo Ui Link</h4>
+<h4>Demo Ui Link</h4></br>
 https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/
 </br>
 📄 License</br>
 This project is for academic use only. Data used is publicly available. Feel free to fork or extend for educational purposes.
+</br>
