@@ -1,41 +1,103 @@
-**🚗 Project Overview**</br>
-Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across India and globally. The goal is to help EV buyers and policy analysts explore insights and make informed decisions.</br>
-**📌 Problem Statement**</br>
-Analysing different data from multiple sources for Electric cars in India and globally.
-We worked with four distinct datasets that include EV specifications, pricing, efficiency, and charging infrastructure. The data is cleaned, connected via MySQL, and visualized using Tableau Dashboards and Stories to provide meaningful insights for decision-making.</br>
-**🚗 Project Overview**</br>
-Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across India and globally. The goal is to help EV buyers and policy analysts explore insights and make informed decisions.</br>
-**📌 Problem Statement**</br>
-Analysing different data from multiple sources for Electric cars in India and globally.
-We worked with four distinct datasets that include EV specifications, pricing, efficiency, and charging infrastructure. The data is cleaned, connected via MySQL, and visualized using Tableau Dashboards and Stories to provide meaningful insights for decision-making.</br>
-**📊 Key Features of the Dashboard**</br>
-📍 Charging Stations by Region & Type (India)
-🗺️ Charging Station Map of India
-🚘 EV Car Comparison (Price, Range, Speed)
-🔋 Top 10 Most Efficient EV Brands
-🚙 Body Style vs Brand Breakdown
-⚙️ Powertrain Type Filters
-📈 Model Count by Brand
-📇 Summary Cards (India & Global)
-🎯 KPI Cards with key performance metrics
-🔗 Live Tableau Links
-📈 EV Dashboard</br>
-**🧑‍💻 Author**</br>
-Name: Shraddha Shrikant Mali</br>
-<h4>Email:</h4></br>shraddhamali04@gmail.com</br>
-**🔗 Live Tableau Links**</br>
-1.Dashboard:</br>
-https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-</br>
-2.Story:</br>
-https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-</br>
-<h4>**Demo video link : **</h4></br>
-https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk
-</br>
-<h4>Demo Ui Link</h4></br>
-https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/
-</br>
-📄 License</br>
-This project is for academic use only. Data used is publicly available. Feel free to fork or extend for educational purposes.
-</br>
+# 🚗 Electric Vehicle Analytics Dashboard
+
+Electric Vehicles (EVs) are reshaping global transportation. This project uses **Tableau** to build an interactive dashboard that visualizes data on EV models, specifications, and charging infrastructure across **India and globally**.
+
+The goal of this project is to help **EV buyers, analysts, and policymakers** explore insights and make informed decisions through interactive visualizations.
+
+---
+
+# 📌 Problem Statement
+
+Analyzing Electric Vehicle data from **multiple datasets** can be challenging due to differences in formats, metrics, and sources.
+
+This project integrates **four different datasets** containing information about:
+
+* EV specifications
+* Pricing
+* Efficiency
+* Charging infrastructure
+
+The data is **cleaned, processed, and connected using MySQL**, then visualized through **Tableau Dashboards and Stories** to generate meaningful insights.
+
+---
+
+# 🛠️ Technologies Used
+
+* **Tableau** – Data visualization & dashboards
+* **MySQL** – Data storage and integration
+* **Excel / CSV datasets** – Raw data sources
+* **GitHub Pages** – Demo UI hosting
+
+---
+
+# 📊 Key Features of the Dashboard
+
+✔ Charging Stations by **Region & Type (India)**
+✔ **Interactive Map** of Charging Stations in India
+✔ **EV Car Comparison** (Price, Range, Speed)
+✔ **Top 10 Most Efficient EV Brands**
+✔ **Body Style vs Brand Breakdown**
+✔ **Powertrain Type Filters**
+✔ **Model Count by Brand**
+✔ **Summary Cards** (India & Global Statistics)
+✔ **KPI Cards** with key performance metrics
+
+---
+
+# 📈 Tableau Dashboard
+
+🔗 **Live Dashboard:**
+[https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17728587954940/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+# 📖 Tableau Story
+
+🔗 **Story Visualization:**
+[https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StoryofElectricCarsinindia/StoryofElectriccarsinindia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+# 🎥 Demo Video
+
+Watch the project demonstration:
+
+[https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk](https://drive.google.com/file/d/1KyeRcN9OD7OhDY6o9m6o83a_UKd_TFZ5/view?usp=drivesdk)
+
+---
+
+# 🌐 Demo UI
+
+Interactive UI version of the project:
+
+[https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/](https://shraddhamali-tech.github.io/Visualization-Tool-for--Electric-Charge-and-Range-Analysis/)
+
+---
+
+# 📂 Project Workflow
+
+1️⃣ Collect EV datasets from public sources
+2️⃣ Clean and preprocess data
+3️⃣ Integrate datasets using **MySQL**
+4️⃣ Connect MySQL database to **Tableau**
+5️⃣ Build **interactive dashboards and stories**
+6️⃣ Publish dashboard to **Tableau Public**
+
+---
+
+# 🧑‍💻 Author
+
+**Shraddha Shrikant Mali**
+
+📧 Email: [shraddhamali04@gmail.com](mailto:shraddhamali04@gmail.com)
+
+---
+
+# 📄 License
+
+This project is created for **academic and educational purposes only**.
+The datasets used are **publicly available sources**.
+
+Feel free to **fork, learn, and extend** the project.
+
+---
